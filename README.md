@@ -2,7 +2,7 @@
 
 ## Author: Ray Zhang
 ### CPSC 210 Term Project
-- ----
+- ---
 ### What Will the Program Do?
 First and foremost, the purpose of the program is to create a friendly interface where
 users can track and maintain their cryptocurrencies. The program will provide details about
@@ -14,13 +14,13 @@ the future change in prices of the currency.
 
 This program is to be used by people not only interested in learning more about cryptocurrencies,
 but also for people to manage and organize their holdings. 
----
+- ---
 ### Who Will Use this Program?
 This program is designed for anyone with crytocurrency holdings, or anyone wanting to 
 get involved in cryptocurrencies. Outside of using it for organizing their own holdings,
 they can also use the program to research historical data and consider the predictions
 proposed by the program regarding trends in the data.
---- 
+- --- 
 ### Why is this Project of Interest to You?
 From the start, I knew I wanted to try implementing a machine learning algorithm as part of my
 assignment. With cryptocurrencies gaining traction more than ever, a wide pool of data is publicly 
@@ -30,7 +30,7 @@ I can also learn about how cryptocurrencies might interact in a market and hopef
 understand, at a fundamental level, what they are. As well, given the volatile and truthfully
 unpredictable nature of cryptocurrencies, designing an effective prediction algorithm will 
 demand some creativity; I hope to learn some new approaches and fully apply myself.
----
+- ---
 ### User Stories
 *As a user, I want to be able to...* 
 
