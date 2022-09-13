@@ -1,0 +1,13 @@
+{
+  "Your Holdings": [
+    {
+      "Crypto Name": "Bitcoin",
+      "Amount": 10
+    },
+    {
+      "Crypto Name": "Dogecoin",
+      "Amount": 10
+    }
+  ],
+  "Account": "Your Account"
+}
